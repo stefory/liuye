@@ -1,1 +1,10 @@
-console.log('This would be the main JS file.');
+//console.log('This would be the main JS file.');
+Egg.defaultText = "E.ggtimer";
+Egg.title = "";
+Egg.label = "";
+Egg.expiredMessage = "time expired";
+Egg.startTime = 1423738581000;
+Egg.endTime = 1455274581000;
+Egg.parseError = "none";
+Egg.volume = 1;
+Egg.canAlert = true;
